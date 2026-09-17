@@ -31,15 +31,16 @@
   --color-light-gray: #f0eee6;
   --color-orange: #d14424;
   --color-dark-orange: #9c331b;
-  --color-yellow: #f8d47a;
+  --color-yellow: #e6a817;
+  --color-dark-yellow: #c48f0e;
   --color-blue: #0073e6;
   --color-red: #e31700;
 
   /* ---- Color: theme (each resolves per light/dark scheme) ---- */
   --theme-background: light-dark(var(--color-white), var(--color-black));
   --theme-text: light-dark(var(--color-black), var(--color-white));
-  --theme-accent: var(--color-orange);
-  --theme-accent-dark: var(--color-dark-orange);
+  --theme-accent: var(--color-yellow);
+  --theme-accent-dark: var(--color-dark-yellow);
   --theme-border: light-dark(var(--color-mid-gray-1), var(--color-mid-gray-2));
 
   /* ---- Fonts ---- */

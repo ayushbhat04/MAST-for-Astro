@@ -12,7 +12,7 @@
   background-color: var(--theme-accent);
   pointer-events: auto;
   font-family: var(--button-font);
-  color: var(--color-white);
+  color: var(--color-black);
   font-size: var(--button-font-size);
   line-height: var(--button-line-height);
   font-weight: var(--button-weight);

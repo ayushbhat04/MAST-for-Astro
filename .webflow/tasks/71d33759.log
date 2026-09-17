@@ -1,0 +1,31 @@
+
+> mast-astro@0.1.0 dev
+> astro dev
+
+11:06:36 [vite] connected.
+11:06:46 [types] Generated 0ms
+11:06:46 [vite] connected.
+11:06:46 [content] Syncing content
+11:06:46 [content] Astro config changed
+11:06:46 [content] Clearing content store
+11:06:46 [content] Synced content
+11:06:46 [vite] Re-optimizing dependencies because vite config has changed
+ astro  v7.2.4 ready in 10414 ms
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+11:06:46 watching for file changes...
+11:06:46 [200] / 23ms
+11:06:47 [200] / 5ms
+11:06:47 [200] / 3ms
+11:06:47 [200] / 2ms
+11:06:51 [WARN] [router] Blocked cross-origin request to / (Sec-Fetch-Site: cross-site, Sec-Fetch-Mode: no-cors). Cross-origin subresource requests are not allowed on the dev server for security reasons.
+11:17:20 [WARN] [router] Blocked cross-origin request to / (Sec-Fetch-Site: cross-site, Sec-Fetch-Mode: no-cors). Cross-origin subresource requests are not allowed on the dev server for security reasons.
+11:19:33 [200] / 107ms
+11:19:46 [200] / 9ms
+11:20:48 [WARN] [router] Blocked cross-origin request to / (Sec-Fetch-Site: cross-site, Sec-Fetch-Mode: no-cors). Cross-origin subresource requests are not allowed on the dev server for security reasons.
+11:23:10 [200] / 26ms
+11:23:11 [200] / 4ms
+11:23:12 [200] / 5ms
+11:23:12 [200] / 5ms
+11:23:12 [200] / 6ms
+11:23:30 [200] /styles 35ms
