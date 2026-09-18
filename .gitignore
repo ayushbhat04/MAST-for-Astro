@@ -24,3 +24,6 @@ pnpm-debug.log*
 
 # transient agent worktrees
 .claude/worktrees/
+
+# ShipStudio metadata
+.shipstudio/
